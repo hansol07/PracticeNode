@@ -1,1 +1,1 @@
-# PracticeNode
+Node.js 교과서 교재/인강 실습 깃입니다.
